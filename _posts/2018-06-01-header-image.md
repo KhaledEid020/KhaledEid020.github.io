@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Page - Article Header Overlay Background Image
+title: Malware One
 article_header:
   type: overlay
   theme: dark
@@ -9,7 +9,5 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /docs/assets/images/cover3.jpg
 ---
-
-A Post with Header Image, See [Page layout](https://kitian616.github.io/jekyll-TeXt-theme/samples.html#page-layout) for more examples.
 
 <!--more-->
