@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Malware One
+title: Malware 2
 article_header:
   type: overlay
   theme: dark
