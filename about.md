@@ -27,5 +27,7 @@ key: page-about
 ---
 
 ![Khaled Eid](/KhaledEid020.github.io/blob/master/screenshots/Khaled.jpg)
+<img src="./screenshots/Khaled.jpg" alt="Kha">
+
 
 TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
